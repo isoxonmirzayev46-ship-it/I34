@@ -1,0 +1,17 @@
+{
+  "name": "I34",
+  "version": "0.1.0",
+  "core": {
+    "enabled": true
+  },
+  "intelligence": {
+    "ai_api_required": false
+  },
+  "modules": {
+    "system": true,
+    "intent": false,
+    "context": false,
+    "memory": false,
+    "tools": false
+  }
+}
